@@ -1,2 +1,2 @@
 converts images to ASCII
-wariyah BASIC IMPLEMENTATION
+BASIC IMPLEMENTATION tho :)
